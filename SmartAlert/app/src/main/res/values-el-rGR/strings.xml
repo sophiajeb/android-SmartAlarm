@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Έξυπνη ειδοποίηση</string>
+
+    <string name="signUp">Εγγραφή</string>
+    <string name="signIn">Σύνδεση</string>
+    <string name="email">Ηλεκτρονικό Ταχυδρομείο</string>
+    <string name="password">Κωδικός Πρόσβασης</string>
+    <string name="fire">Φωτιά</string>
+    <string name="moveDetection">Ανίχνευση Πτώσης</string>
+    <string name="abort">Ματαίωση</string>
+    <string name="maxAcceleration">Μέγιστη επιτάχυνση</string>
+    <string name="maxAccelerationX">Μέγιστη επιτάχυνση: X-Άξονας</string>
+    <string name="maxAccelerationY">Μέγιστη επιτάχυνση: Y-Άξονας</string>
+    <string name="maxAccelerationZ">Μέγιστη επιτάχυνση: Z-Άξονας</string>
+    <string name="currentAcceleration">Τρέχουσα επιτάχυνση</string>
+    <string name="ChangeLang">Αλλαγή Γλώσσας</string>
+    <string name="notRegistered">Δεν έχετε εγγραφεί; Εγγραφείτε εδώ</string>
+    <string name="alreadySingIn">Έχετε ήδη λογαριασμό; Συνδεθείτε εδώ</string>
+
+</resources>

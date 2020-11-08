@@ -1,0 +1,22 @@
+<resources>
+    <!--gia na mporoyme na exoyme enallagh glwsswn, prepei na exoume oles tis le3eis toy programmatos mesa se auto to arxeio -->
+    <string name="app_name" translatable="false">SmartAlert</string>
+
+    <string name="signUp" translatable="false">Sign Up</string>
+    <string name="signIn" translatable="false">Sign In</string>
+    <string name="email" translatable="false">Email</string>
+    <string name="password" translatable="false">Password</string>
+    <string name="fire" translatable="false">Fire</string>
+    <string name="moveDetection" translatable="false">Move Detection</string>
+    <string name="abort" translatable="false">Abort</string>
+    <string name="maxAcceleration" translatable="false">Max Acceleration</string>
+    <string name="maxAccelerationX" translatable="false">Max Acceleration: X-Axis</string>
+    <string name="maxAccelerationY" translatable="false">Max Acceleration: Y-Axis</string>
+    <string name="maxAccelerationZ" translatable="false">Max Acceleration: Z-Axis</string>
+    <string name="currentAcceleration" translatable="false">Current Acceleration</string>
+    <string name="ChangeLang" translatable="false">Change Language</string>
+    <string name="notRegistered" translatable="false">Not registered? Sign Up here</string>
+    <string name="alreadySingIn" translatable="false">Already have an account? Sign in here</string>
+
+
+</resources>

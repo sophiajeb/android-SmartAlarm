@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "210825770500",
+    "firebase_url": "https://smartalert-16b95.firebaseio.com",
+    "project_id": "smartalert-16b95",
+    "storage_bucket": "smartalert-16b95.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:210825770500:android:afa64f9994754145d4e751",
+        "android_client_info": {
+          "package_name": "com.example.smartalert"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "210825770500-pohvfb0vni1j4s5qmev7le99r47ds3lf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.smartalert",
+            "certificate_hash": "ba679a8bba04eee7cd0079176566698d44a1d73c"
+          }
+        },
+        {
+          "client_id": "210825770500-3bnp42jf3rvuduq08qpgkg68hneb4u8v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4ms8KxqehUY3jsMEFm-xWHKXqQD0Ywqk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "210825770500-3bnp42jf3rvuduq08qpgkg68hneb4u8v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
